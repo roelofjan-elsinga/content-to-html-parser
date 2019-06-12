@@ -1,0 +1,24 @@
+{
+  "name": "roelofjan-elsinga/content-to-html-parser",
+  "description": "This package converts content from strings or files to HTML strings to be rendered on a page",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Roelof Jan Elsinga",
+      "email": "roelofjanelsinga@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.2.0",
+    "erusev/parsedown": "^1.7"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.0.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "ContentParser\\": "src/"
+    }
+  }
+}
