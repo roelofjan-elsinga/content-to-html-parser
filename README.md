@@ -1,3 +1,10 @@
+<p align="center">
+<a href="https://travis-ci.com/roelofjan-elsinga/content-to-html-parser"><img src="https://travis-ci.com/roelofjan-elsinga/content-to-html-parser.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser"><img src="https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser"><img src="https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser"><img src="https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/license" alt="License"></a>
+</p>
+
 # Content to HTML Parser
 
 This package converts content from strings or files to HTML strings to be rendered on a page.
