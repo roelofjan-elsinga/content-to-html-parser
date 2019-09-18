@@ -2,7 +2,6 @@
 
 namespace ContentParser\Contracts;
 
-
 abstract class AbstractContentParser implements ContentParserInterface
 {
 
@@ -31,5 +30,4 @@ abstract class AbstractContentParser implements ContentParserInterface
 
         return new static($file_contents, $file_extension);
     }
-
 }

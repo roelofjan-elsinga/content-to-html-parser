@@ -32,7 +32,7 @@ class ContentParser extends AbstractContentParser implements ContentParserInterf
     {
         $extension = pathinfo($file_path, PATHINFO_EXTENSION);
 
-        if( ! file_exists($file_path) ) {
+        if (! file_exists($file_path)) {
             throw new \Exception("File does not exist: {$file_path}");
         }
 

@@ -2,7 +2,6 @@
 
 namespace ContentParser\Parsers;
 
-
 use ContentParser\Contracts\AbstractContentParser;
 use ContentParser\Contracts\ContentParserInterface;
 
