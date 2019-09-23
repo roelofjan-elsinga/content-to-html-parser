@@ -2,7 +2,6 @@
 
 namespace ContentParser\Contracts;
 
-
 interface ContentParserInterface
 {
 
@@ -21,5 +20,4 @@ interface ContentParserInterface
      * @return string
      */
     public function parse(): string;
-
 }
