@@ -1,10 +1,11 @@
 # Content to HTML Parser
 
-<a href="https://travis-ci.com/roelofjan-elsinga/content-to-html-parser"><img src="https://travis-ci.com/roelofjan-elsinga/content-to-html-parser.svg" alt="Build Status"></a>
-<img src="https://github.styleci.io/repos/191525268/shield" alt="StyleCI Status">
-<a href="https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser"><img src="https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/downloads" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser"><img src="https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/v/stable" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser"><img src="https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/license" alt="License"></a>
+[![Build status](https://travis-ci.com/roelofjan-elsinga/content-to-html-parser.svg)](https://travis-ci.com/roelofjan-elsinga/content-to-html-parser)
+[![StyleCI Status](https://github.styleci.io/repos/191525268/shield)](https://github.styleci.io/repos/191525268)
+[![Code coverage](https://codecov.io/gh/roelofjan-elsinga/content-to-html-parser/branch/master/graph/badge.svg)](https://codecov.io/gh/roelofjan-elsinga/content-to-html-parser)
+[![Total Downloads](https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/downloads)](https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser)
+[![Latest Stable Version](https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/v/stable)](https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser)
+[![License](https://poser.pugx.org/roelofjan-elsinga/content-to-html-parser/license)](https://packagist.org/packages/roelofjan-elsinga/content-to-html-parser)
 
 This package converts content from strings or files to HTML strings to be rendered on a page.
 
