@@ -14,7 +14,7 @@ class ContentParser extends AbstractContentParser implements ContentParserInterf
     /**@var ContentParserInterface*/
     private $parser;
 
-    protected function __construct(string $file_contents, string $file_extension)
+    public function __construct(string $file_contents, string $file_extension)
     {
         parent::__construct($file_contents, $file_extension);
 
