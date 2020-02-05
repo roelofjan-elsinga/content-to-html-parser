@@ -16,6 +16,6 @@ class MarkdownParser extends AbstractContentParser implements ContentParserInter
      */
     public function parse(): string
     {
-        return (new \ParsedownExtra())->parse($this->file_contents);
+        return (new \Parsedown())->parse($this->file_contents);
     }
 }
