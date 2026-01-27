@@ -10,7 +10,6 @@ use ContentParser\Parsers\TxtParser;
 
 class ContentParser extends AbstractContentParser implements ContentParserInterface
 {
-
     /**@var ContentParserInterface*/
     private $parser;
 

@@ -4,7 +4,6 @@ namespace ContentParser\Contracts;
 
 abstract class AbstractContentParser implements ContentParserInterface
 {
-
     /**@var string*/
     protected $file_contents;
 

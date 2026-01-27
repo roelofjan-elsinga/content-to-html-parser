@@ -7,7 +7,6 @@ use ContentParser\Contracts\ContentParserInterface;
 
 class MarkdownParser extends AbstractContentParser implements ContentParserInterface
 {
-
     /**
      * Parse the given data and return it as a string
      *

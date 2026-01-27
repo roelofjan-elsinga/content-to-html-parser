@@ -4,7 +4,6 @@ namespace ContentParser\Contracts;
 
 interface ContentParserInterface
 {
-
     /**
      * Return an instance of itself from a the given file contents and file extension
      *
